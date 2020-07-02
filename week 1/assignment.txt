@@ -1,0 +1,14 @@
+open the link given below 
+
+http://data.pr4e.org/intro-short.txt
+
+after opening right click on web site 
+and click on "INSPECT"
+or use the developer tools,then go to network
+after that inspect tab is there , look for network 
+and reload the website 
+then 
+header drop list will fall down 
+
+just copy what 
+all required after opening the auto grader 
