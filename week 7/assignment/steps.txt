@@ -1,0 +1,2 @@
+open these files with the help of any editor and xampp/mampp
+ in web browser and take screenshot to upload
